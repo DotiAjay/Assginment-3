@@ -1,0 +1,8 @@
+.listImg {
+  margin: 10px;
+  height: 200px;
+}
+.but {
+  border: none;
+  background-color: transparent;
+}
