@@ -1,0 +1,7 @@
+import MatchGame from './Components/Match'
+
+import './App.css'
+
+const App = () => <MatchGame />
+
+export default App
