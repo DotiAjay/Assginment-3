@@ -1,0 +1,13 @@
+.Tabbutton {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'roboto';
+  font-weight: 700;
+  margin: 10px;
+}
+.selectedButton {
+  border-bottom: 2px solid #ffffff;
+  color: #fec653;
+}
